@@ -2,9 +2,9 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=r-r-7&style=for-the-badge" alt="Profile visitor" />
 </a>
 
-<h3 align="center">
+<h align="center">
     Hey There 🖐️, I am <b>Rahul</b>
-</h3>
+</h>
 
 <p align="center">
 <a href="https://linkedin.com/in/rahulradhesh" target="_blank">
@@ -70,6 +70,7 @@
 </a>
 
 <br />
+
 <p align="center">
   <a href="https://github.com/r-r-7">
     <img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=r-r-7&theme=radical" alt="GitHub Streak" />
