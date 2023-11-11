@@ -3,8 +3,7 @@
 </a>
 
 <h3 align="center">
-        <samp>&gt; Hey There!, I am <b>Rahul</b>
-        </samp>
+      Hey There 🖐️!, I am <b>Rahul</b>
 </h3>
 
 <p align="center">
@@ -14,13 +13,16 @@
  <a href="https://instagram.com/_r.r16_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="rahul" />
  </a>
+ <a href="https://twitter.com/_rr_16_" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="rahul" />
+ </a>
 </p>
 <br />
 
 # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy Programming <br/><br/>
  ❤️ &emsp; Love to learn about new tech<br/><br/>
@@ -70,7 +72,7 @@
 
 <p align="center">
   <a href="https://github.com/r-r-7">
-    <img src="<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=r-r-7&theme=catppuccin-mocha" alt="GitHub Streak" /></a>" alt="Rahul's Github Streak"/>
+    <img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=r-r-7&theme=radical" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -82,8 +84,8 @@
 
 <a> 
     <a href="https://github.com/r-r-7"><img alt="Rahul's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r-r-7&theme=radical"/></a>
-  <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r-r-7&theme=radical"/></a>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r-r-7&theme=radical"></a>
   <br/>
 </a>
 
-[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ar-r-7&theme=github-compact)](https://github.com/r-r-7/github-readme-activity-graph)
+[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=r-r-7&theme=github-compact)](https://github.com/r-r-7/github-readme-activity-graph)
