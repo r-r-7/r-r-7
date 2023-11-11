@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-<p>
+<p align="center">
   <a href="https://cooltext.com"><img src="https://images.cooltext.com/5679138.gif" width="274" height="109" alt="Rahul" /></a>
 </p>
 
