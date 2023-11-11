@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/rahulradhesh" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rahul"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rahul" />
  </a>
  <a href="https://instagram.com/_r.r16_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="rahul" />
@@ -58,7 +58,7 @@
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
-<br />
+<br/>
 
 ## Problem Solving
 
@@ -70,24 +70,24 @@
  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode"/>
 </a>
 
-<br />
+<br/>
+<br/>
 
 <p align="center">
   <a href="https://github.com/r-r-7">
-    <img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=r-r-7&theme=radical" alt="GitHub Streak" />
+    <img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=r-r-7&theme=radical" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/r-r-7">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-r-7&theme=radical" alt="Rahul's Github Contribution"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-r-7&theme=radical" alt="Rahul's Github Contribution"  />
   </a>
 </p>
 
 <p align="center"> 
     <a href="https://github.com/r-r-7"><img alt="Rahul's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r-r-7&theme=radical"/></a>
-    <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r-r-7&theme=radical">
-  </a>
+    <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r-r-7&theme=radical"></a>
 </p>
 
 [![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=r-r-7&theme=github-compact)](https://github.com/r-r-7/github-readme-activity-graph)
