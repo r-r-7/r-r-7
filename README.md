@@ -84,10 +84,10 @@
   </a>
 </p>
 
-<a> 
+<p align="center"> 
     <a href="https://github.com/r-r-7"><img alt="Rahul's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r-r-7&theme=radical"/></a>
-  <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r-r-7&theme=radical"></a>
-  <br/>
-</a>
+    <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r-r-7&theme=radical">
+  </a>
+</p>
 
 [![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=r-r-7&theme=github-compact)](https://github.com/r-r-7/github-readme-activity-graph)
