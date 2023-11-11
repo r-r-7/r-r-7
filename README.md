@@ -10,7 +10,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://cooltext.com"><img src="https://images.cooltext.com/5679143.png" width="349" height="112" alt="Rahul" /></a>
+  <a href="https://cooltext.com"><img src="https://images.cooltext.com/5679144.png" width="349" height="112" alt="Rahul" /></a>
 </p>
 
 <p align="center">
