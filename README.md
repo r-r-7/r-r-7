@@ -2,9 +2,9 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=r-r-7&style=for-the-badge" alt="Profile visitor" />
 </a>
 
-<h align="center">
+<h1 align="center">
     Hey There 🖐️, I am <b>Rahul</b>
-</h>
+</h1>
 
 <p align="center">
 <a href="https://linkedin.com/in/rahulradhesh" target="_blank">
