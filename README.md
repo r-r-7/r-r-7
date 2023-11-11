@@ -1,6 +1,7 @@
 <a href="https://komarev.com/ghpvc/?username=r-r-7">
   <img align="right" src="https://komarev.com/ghpvc/?username=r-r-7&style=for-the-badge" alt="Profile visitor" />
 </a>
+<br />
 
 <h1 align="center">
     Hey There 🖐️, I am <b>Rahul</b>
