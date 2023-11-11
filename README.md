@@ -65,13 +65,11 @@
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank" />
 </a>
 
-<br />
-
 <a href="https://leetcode.com/rahulradhesha/">
  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode"/>
 </a>
 
-
+<br />
 <p align="center">
   <a href="https://github.com/r-r-7">
     <img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=r-r-7&theme=radical" alt="GitHub Streak" />
