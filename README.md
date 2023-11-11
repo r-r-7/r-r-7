@@ -4,13 +4,13 @@
 <br />
 
 <h1 align="center">
-    Hey There 🖐️, I am <b>Rahul</b>
+    Hey There 🖐️, I am
 </h1>
 <br/>
 <br/>
 
 <p align="center">
-  <a href="https://cooltext.com"><img src="https://images.cooltext.com/5679138.gif" width="600" height="300" alt="Rahul" /></a>
+  <a href="https://cooltext.com"><img src="https://images.cooltext.com/5679139.jpg" width="400" height="144" alt="Rahul" /></a>
 </p>
 
 <p align="center">
