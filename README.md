@@ -33,7 +33,7 @@
   
  ✌️ &emsp; Enjoy Programming <br/><br/>
  ❤️ &emsp; Love to learn about new tech<br/><br/>
- 📧 &emsp; Reach me anytime <a href="rahulradhesha@gmail.com" target="_blank"><img sec="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a><br/><br/>
+ 📧 &emsp; Reach me anytime <a href="rahulradhesha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a><br/><br/>
  💬 &emsp; Ask me about anything [here] (https://github.com/r-r-7/r-r-7/issues)
 
 </p>
