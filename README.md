@@ -32,9 +32,9 @@
  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" alt="Coding gif" />
   
  ✌️ &emsp; <b>Enjoy Programming</b> <br/><br/>
- ❤️ &emsp; Love to learn about new tech<br/><br/>
- 📧 &emsp; Reach me anytime <a href="https://rahulradhesha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a><br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/r-r-7/r-r-7/issues)
+ ❤️ &emsp; <b>Love to learn about new tech</b> <br/><br/>
+ 📧 &emsp; <b>Reach me anytime <a href="https://rahulradhesha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a></b> <br/><br/>
+ 💬 &emsp; <b>Ask me about anything [here](https://github.com/r-r-7/r-r-7/issues)</b>
 
 </p>
 
