@@ -85,16 +85,14 @@
   <a href="https://github.com/r-r-7">
     <img src="https://streak-stats.demolab.com?user=r-r-7&theme=radical" alt="GitHub Streak"/>
   </a>
-</p>
 
-<p align="center">
   <a href="https://github.com/r-r-7">
     <img src="https://github-readme-stats.vercel.app/api?username=r-r-7&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Rahul's Github Contribution"  />
   </a>
-</p>
 
-<p align="center"> 
-    <a href="https://github.com/r-r-7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-r-7&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Rahul's Top Languages"></a>
+  <a href="https://github.com/r-r-7">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-r-7&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Rahul's Top Languages"  />
+  </a>
 </p>
 
 [![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=r-r-7&theme=github-compact)](https://github.com/r-r-7/github-readme-activity-graph)
