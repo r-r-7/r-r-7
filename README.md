@@ -33,8 +33,8 @@
   
  ✌️ &emsp; Enjoy Programming <br/><br/>
  ❤️ &emsp; Love to learn about new tech<br/><br/>
- 📧 &emsp; Reach me anytime: rahulradhesha@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/r-r-7/r-r-7/issues)
+ 📧 &emsp; Reach me anytime <a href="rahulradhesha@gmail.com" target="_blank"><img sec="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a><br/><br/>
+ 💬 &emsp; Ask me about anything [here] (https://github.com/r-r-7/r-r-7/issues)
 
 </p>
 
@@ -54,6 +54,7 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![PowerBi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
