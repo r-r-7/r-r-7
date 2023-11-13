@@ -1,4 +1,4 @@
-<a href="https://wakatime.com/@018bb781-75f6-4d80-bc12-75fd5b39f034&v=2">
+<a href="https://wakatime.com/@018bb781-75f6-4d80-bc12-75fd5b39f034">
   <img align="left" src="https://wakatime.com/badge/user/018bb781-75f6-4d80-bc12-75fd5b39f034.svg?label=Total+Time+Coded&style=for-the-badge&v=2" alt="Total time coded" />
 </a>
 
