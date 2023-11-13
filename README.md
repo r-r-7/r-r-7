@@ -1,3 +1,7 @@
+<a href="https://wakatime.com/@018bb781-75f6-4d80-bc12-75fd5b39f034">
+  <img align="left" src="https://wakatime.com/badge/user/018bb781-75f6-4d80-bc12-75fd5b39f034.svg" alt="Total time coded" />
+</a>
+
 <a href="https://komarev.com/ghpvc/?username=r-r-7">
   <img align="right" src="https://komarev.com/ghpvc/?username=r-r-7&style=for-the-badge" alt="Profile visitor" />
 </a>
