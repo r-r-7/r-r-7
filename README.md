@@ -1,5 +1,5 @@
 <a>
-  <img align="left" src="https://forthebadge.com/images/badges/check-it-out.svg" width='100' height="100" alt="CheckItOut Badge" />
+  <img align="left" src="https://forthebadge.com/images/badges/check-it-out.svg" width='200' height="150" alt="CheckItOut Badge" />
 </a>
 
 <a href="https://komarev.com/ghpvc/?username=r-r-7">
