@@ -1,5 +1,5 @@
 <a href="https://forthebadge.com?primaryBGColor=%23a7acad&primaryTextColor=%23FFFFFF&secondaryBGColor=%23389AD5 secondaryTextColor=%23FFFFFF&tertiaryBGColor=%232674A4&tertiaryTextColor=%23FFFFFF&primaryLabel=WORKS&secondaryLabel=100%25&tertiaryLabel=&panels=2#/generator">
-  <img align="left" src="C:\Users\rahul\Documents\GitHub\r-r-7\works100%.svg" alt="Works100% Badge" />
+  <img align="left" src="works100%.svg" alt="Works100% Badge" />
 </a>
 
 <a href="https://komarev.com/ghpvc/?username=r-r-7">
