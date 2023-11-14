@@ -1,5 +1,5 @@
 <a>
-  <img align="left" src="works100%.svg" alt="Works100% Badge" />
+  <img align="left" src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg" alt="Works100% Badge" />
 </a>
 
 <a href="https://komarev.com/ghpvc/?username=r-r-7">
