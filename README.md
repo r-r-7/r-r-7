@@ -88,16 +88,16 @@
 <br/>
 
 <p align="center">
-  <a href="https://streak-stats.demolab.com?user=r-r-7&theme=radical">
-    <img src="https://streak-stats.demolab.com?user=r-r-7&theme=radical" alt="GitHub Streak"/>
+  <a href="https://streak-stats.demolab.com?user=r-r-7&theme=radical&v=2">
+    <img src="https://streak-stats.demolab.com?user=r-r-7&theme=radical&v=2" alt="GitHub Streak"/>
   </a>
 
-  <a href="https://github-readme-stats.vercel.app/api?username=r-r-7&theme=radical&show_icons=true&hide_border=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=r-r-7&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Rahul's Github Contribution"  />
+  <a href="https://github-readme-stats.vercel.app/api?username=r-r-7&theme=radical&show_icons=true&hide_border=true&count_private=true&v=2">
+    <img src="https://github-readme-stats.vercel.app/api?username=r-r-7&theme=radical&show_icons=true&hide_border=true&count_private=true&v=2" alt="Rahul's Github Contribution"  />
   </a>
 
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=r-r-7&theme=radical&show_icons=true&hide_border=true&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-r-7&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Rahul's Top Languages"  />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=r-r-7&theme=radical&show_icons=true&hide_border=true&layout=compact&v=2">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-r-7&theme=radical&show_icons=true&hide_border=true&layout=compact&v=2" alt="Rahul's Top Languages"  />
   </a>
 </p>
 
