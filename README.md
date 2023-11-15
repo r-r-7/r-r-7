@@ -1,3 +1,5 @@
+<!---- [![wakatime](https://wakatime.com/badge/user/018bb781-75f6-4d80-bc12-75fd5b39f034.svg)](https://wakatime.com/@018bb781-75f6-4d80-bc12-75fd5b39f034) ---->
+
 <p>
   <a href="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg">
     <img align="left" src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg" height="" alt="Badge" />
